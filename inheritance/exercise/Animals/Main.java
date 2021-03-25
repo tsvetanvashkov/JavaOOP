@@ -1,4 +1,4 @@
-package Animals;
+package inheritance.exercise.Animals;
 
 import java.util.ArrayList;
 import java.util.List;
